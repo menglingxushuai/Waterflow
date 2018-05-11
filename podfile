@@ -1,0 +1,4 @@
+target 'Waterflow' do
+pod 'SDWebImage'
+pod 'MJExtension'
+end
